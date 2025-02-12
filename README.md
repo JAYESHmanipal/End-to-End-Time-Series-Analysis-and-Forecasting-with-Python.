@@ -1,9 +1,23 @@
 # End-to-End-Time-Series-Analysis-and-Forecasting-with-Python.
 
 
-Preprocessed data by cleaning, transforming, and handling missing values.
- Conducted exploratory data analysis (EDA) and visualization to identify patterns, trends, and
-seasonality.
- Implemented and trained forecasting models, including ARIMA, SARIMA, Prophet, and LSTM.
- Optimized model performance through hyperparameter tuning and evaluated accuracy using MAE,
-RMSE, and MAPE
+## Time Series Forecasting Project
+
+### Project Overview
+This project focuses on time series forecasting using various techniques and models.
+
+### Key Steps:
+- **Data Preprocessing**: Cleaned, transformed, and handled missing values in the dataset.
+- **Exploratory Data Analysis (EDA)**: Conducted analysis and visualizations to identify patterns, trends, and seasonality.
+- **Model Implementation**: Developed and trained forecasting models, including:
+  - ARIMA
+  - SARIMA
+  - Prophet
+  - LSTM
+- **Model Optimization & Evaluation**:
+  - Performed hyperparameter tuning for better accuracy.
+  - Evaluated model performance using:
+    - **Mean Absolute Error (MAE)**
+    - **Root Mean Squared Error (RMSE)**
+    - **Mean Absolute Percentage Error (MAPE)**
+
